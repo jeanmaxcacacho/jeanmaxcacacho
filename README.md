@@ -1,5 +1,7 @@
 ## i take showers sometimes 👋
-I liked Math in movies and knew how to hello world in Roblox studio which is why I enrolled in CS.
+I liked Math in movies and knew how to hello world in Roblox studio which is why I'm enrolled in CS.
+- 🌱 if money were no object I would start my own game dev studio
+- 🔭 one day my laptop would be running Arch Linux and dwm, that day is when Linux gaming becomes a thing
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
