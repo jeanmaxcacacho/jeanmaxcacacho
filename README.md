@@ -1,4 +1,5 @@
-### i take showers sometimes 👋
+## i take showers sometimes 👋
+I liked Math in movies and knew how to hello world in Roblox studio which is why I enrolled in CS.
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
