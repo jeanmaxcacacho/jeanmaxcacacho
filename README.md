@@ -2,8 +2,7 @@
 I liked Math in movies and knew how to hello world in Roblox studio which is why I'm enrolled in CS.
 - 🌱 if money were no object I would start my own game dev studio
 - 🔭 one day my laptop would be running Arch Linux and dwm, that day is when Linux gaming becomes a thing
-- 🏢 i am looking for internships (i have employment anxiety)
-- 👨🏽 can bench 2 plates, deadlift 2.5 plates, and am too scared to know what my squat numbers are
+- 👨🏽 can bench 2 plates, deadlift 2.5 plates, and am too scared to know what my squat numbers are (these are my most employable traits)
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
