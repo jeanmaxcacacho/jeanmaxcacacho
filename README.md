@@ -1,6 +1,6 @@
 ## i take showers sometimes 👋
 I smoke crystal math.
-- 🐍 left GNU Emacs for Neovim 3 times now in college.
+- 🐍 left GNU Emacs for Neovim 3 times, left Neovim for VSCode + Vim Bindings + Rose Pine
 - 🌱 if money were no object I would start my own game dev studio
 - 🔭 one day my laptop would be running Arch Linux and dwm, that day is when Linux gaming becomes a thing
 - 👨🏽 can bench 2 plates, deadlift 2.5 plates, and am too scared to know what my squat numbers are (my most employable traits)
