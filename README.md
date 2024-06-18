@@ -1,12 +1,4 @@
 ## i take showers sometimes 👋
-I smoke crystal math.
-- 🐍 left GNU Emacs for Neovim 3 times, left Neovim for VSCode + Vim Bindings + Rose Pine
-- 🌱 if money were no object I would start my own game dev studio
-- 🔭 one day my laptop would be running Arch Linux and dwm, that day is when Linux gaming becomes a thing
-- 👨🏽 can bench 2 plates, deadlift 2.5 plates, and am too scared to know what my squat numbers are (my most employable traits)
-
-<div>   <img align=top src="https://github-readme-stats.vercel.app/api?username=jeanmaxcacacho&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmaxcacacho&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" /> </div>
-
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
