@@ -1,4 +1,4 @@
-# i take showers sometimes 👋
+# i am passionate about opening your source 👋
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
