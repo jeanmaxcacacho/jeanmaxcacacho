@@ -1,4 +1,4 @@
-# i am passionate about opening your source 👋
+# I want to buy a gaming PC ong
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
