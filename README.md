@@ -1,5 +1,3 @@
-Graduating BS Computer Science student from Ateneo de Manila with exposure to both front and backend development.
-
 ### Experience
 - Web Developer Intern @ Focus Global Inc.
   - TypeScript, NextJS, TailwindCSS
@@ -7,10 +5,10 @@ Graduating BS Computer Science student from Ateneo de Manila with exposure to bo
   - Python, Django, AWS S3, Docker
 
 ### Currently Learning
-- [React](https://react.dev/) & [TailwindCSS](https://tailwindcss.com/)
-- [FastAPI](https://fastapi.tiangolo.com/)
+- ReactJS & TailwindCSS
+- FastAPI
 
-Currently looking for internship opportinities and participating in hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) and [LinkedIn](https://www.linkedin.com/in/maxcacacho/).
+Currently looking for internship opportinities and participating in hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) and [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
