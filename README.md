@@ -7,6 +7,7 @@
 ### Currently Learning
 - ReactJS & TailwindCSS
 - FastAPI
+- Linux & QEMU
 
 Currently looking for internship opportinities and hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
