@@ -8,7 +8,7 @@
 - ReactJS & TailwindCSS
 - FastAPI
 
-Currently looking for internship opportinities and participating in hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) and [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
+Currently looking for internship opportinities and participating in hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
