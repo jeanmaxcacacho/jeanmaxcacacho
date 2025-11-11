@@ -1,21 +1,21 @@
 ### Languages
-- C, Java, Python, Lua, JavaScript/TypeScript
+- C, Java, Python, R, Lua, JavaScript/TypeScript
 
 ### Experience
 - Web Development Intern @ Focus Global Inc.
-  - TypeScript, NextJS, TailwindCSS
+  - TypeScript, Next.js, TailwindCSS
 - Research Assistant | Backend Developer @ Ateneo Laboratory for Intelligent Visual Environments
   - Python, Django, AWS S3, Docker
 
-### Stacks/Technologies I'm currently learning
+### Currently Learning
 - React and Next.js
 - Tailwind CSS
 
-### Stacks/Technologies I'd like to get into in 2026
+### Technologies I'd Like to Explore in 2026
 - Svelte/SvelteKit
 - FastAPI
 
-Currently looking for internship opportinities and hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
+Currently looking for software engineerining internship opportunities. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
