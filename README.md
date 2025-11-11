@@ -4,8 +4,15 @@
 - Research Assistant | Backend Developer @ Ateneo Laboratory for Intelligent Visual Environments
   - Python, Django, AWS S3, Docker
 
+### Languages
+- C, Java, Python, Lua, JavaScript/TypeScript
+
 ### Currently Learning
-- ReactJS & TailwindCSS
+- React, Next, and Tailwind
+- Web Design (in general, from the ground up)
+
+### Bucketlist for 2026
+- Svelte/SvelteKit
 - FastAPI
 
 Currently looking for internship opportinities and hackathons. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
