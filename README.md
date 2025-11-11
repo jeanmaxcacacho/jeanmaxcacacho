@@ -1,17 +1,17 @@
+### Languages
+- C, Java, Python, Lua, JavaScript/TypeScript
+
 ### Experience
-- Web Developer Intern @ Focus Global Inc.
+- Web Development Intern @ Focus Global Inc.
   - TypeScript, NextJS, TailwindCSS
 - Research Assistant | Backend Developer @ Ateneo Laboratory for Intelligent Visual Environments
   - Python, Django, AWS S3, Docker
 
-### Languages
-- C, Java, Python, Lua, JavaScript/TypeScript
+### Stacks/Technologies I'm currently learning
+- React and Next.js
+- Tailwind CSS
 
-### Currently Learning
-- React, Next, and Tailwind
-- Web Design (in general, from the ground up)
-
-### Bucketlist for 2026
+### Stacks/Technologies I'd like to get into in 2026
 - Svelte/SvelteKit
 - FastAPI
 
