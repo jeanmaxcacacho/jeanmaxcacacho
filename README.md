@@ -1,5 +1,5 @@
 ### Languages
-- C, Java, Python, R, Lua, JavaScript/TypeScript
+- C/C++, Java, Python, R, Lua, JavaScript/TypeScript, PHP
 
 ### Experience
 - Web Development Intern @ Focus Global Inc.
@@ -12,8 +12,8 @@
 - Tailwind CSS
 
 ### Technologies I'd Like to Explore in 2026
-- Svelte/SvelteKit
-- FastAPI
+- Laravel (Framework & Ecosystem)
+- Bevy
 
 Currently looking for software engineerining internship opportunities. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
