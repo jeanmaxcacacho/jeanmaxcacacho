@@ -1,5 +1,5 @@
 ### Languages
-- C/C++, Java, Python, R, Lua, JavaScript/TypeScript, PHP
+- C/C++, Java, Python, R, Lua, JavaScript/TypeScript
 
 ### Experience
 - Web Development Intern @ Focus Global Inc.
@@ -13,7 +13,6 @@
 
 ### Technologies I'd Like to Explore in 2026
 - Laravel (Framework & Ecosystem)
-- Bevy
 
 Currently looking for software engineerining internship opportunities. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
