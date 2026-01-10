@@ -11,11 +11,7 @@
 - React and Next.js
 - Tailwind CSS
 
-### Technologies I'd Like to Explore in 2026
-- Laravel (Framework & Ecosystem)
-- Deep Learning with NLP
-
-Currently looking for software engineerining internship opportunities. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
+Interested in Software Engineering/Web Development roles. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
