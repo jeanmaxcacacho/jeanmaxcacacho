@@ -8,8 +8,9 @@
   - Python, Django, AWS S3, Docker
 
 ### Currently Learning
-- React and Next.js
+- React.js
 - Tailwind CSS
+- Retrieval Augmented Generation (RAG)
 
 Interested in Software Engineering/Web Development roles. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
