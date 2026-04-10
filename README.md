@@ -1,5 +1,5 @@
 ### Languages
-- C/C++, Java, Python, R, Lua, JavaScript/TypeScript
+- JavaScript/TypeScript, Java, Python
 
 ### Experience
 - Web Development Intern @ Focus Global Inc.
@@ -8,9 +8,8 @@
   - Python, Django, AWS S3, Docker
 
 ### Currently Learning
-- React.js
-- TailwindCSS
-- Retrieval Augmented Generation (RAG)
+- React.js & Next.js
+- DevOps
 
 Interested in Software Engineering/Web Development roles. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
