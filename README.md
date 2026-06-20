@@ -1,5 +1,6 @@
-### Languages
-- JavaScript/TypeScript, Java, Python
+### Languages & Frameworks
+- JavaScript, Java, Python, PHP
+- Django, React, Next.js, TailwindCSS
 
 ### Experience
 - Web Development Intern @ Focus Global Inc.
