@@ -7,11 +7,7 @@
 - Research Assistant | Backend Developer @ Ateneo Laboratory for Intelligent Visual Environments
   - Python, Django, AWS S3, Docker
 
-### Currently Learning
-- React.js & Next.js
-- DevOps
-
-Interested in Software Engineering/Web Development roles. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
+Interested in full-time Software Engineering/Web Development roles. Reach out to me via [email](mailto:maxcacacho@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maxcacacho/)!
 <!--
 **jeanmaxcacacho/jeanmaxcacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
