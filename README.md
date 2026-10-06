@@ -1,5 +1,5 @@
 ### Languages & Frameworks
-- JavaScript, Java, Python, PHP
+- HTML, CSS, JavaScript, Python, SQL (PostgreSQL & MariaDB)
 - Django, React, Next.js, TailwindCSS
 
 ### Experience
